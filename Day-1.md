@@ -44,3 +44,16 @@ Each operating system has its own Java Virtual Machine, and the JVM converts the
 # Reverse of a string in java
 
 
+class Main {
+    public static void main(String[] args) {
+        String s = "samyuktha";
+        String rev = "";
+        
+        for(int i = s.length() -1; i >= 0; i--){
+            rev = rev + s.charAt(i);
+        }
+        System.out.println(rev);  
+    }
+}
+
+
