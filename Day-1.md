@@ -43,7 +43,7 @@ Each operating system has its own Java Virtual Machine, and the JVM converts the
 
 # Reverse of a string in java
 
-
+```bash
 class Main {
     public static void main(String[] args) {
         String s = "samyuktha";
@@ -56,4 +56,4 @@ class Main {
     }
 }
 
-
+```
