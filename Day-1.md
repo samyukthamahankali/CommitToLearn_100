@@ -14,7 +14,17 @@
 
 - Java is widely used in web applications, mobile apps, and banking systems.
 
-Before Java, programs written in languages like C and C++ were machine dependent.
+# Why was java created?
+
+- Java was created to solve the problem of platform dependency.
+  Before Java, programs worked only on one operating system.
+
+- Java was designed so that the same program can run on different systems without changing the code.
+  This was achieved using bytecode and the Java Virtual Machine (JVM).
+
+- Java was also created to be secure, reliable, and easy to use, especially for internet and network-based applications.  
+
+- Before Java, programs written in languages like C and C++ were machine-dependent.
 This means if a program was written and compiled on Windows, it would not run on Linux or Mac.
 Developers had to rewrite the same program for different operating systems, which increased time, cost, and errors.
 Java solved this problem by introducing the concept of Bytecode and JVM.
