@@ -40,3 +40,7 @@ Each operating system has its own Java Virtual Machine, and the JVM converts the
   # Write Once, Run Anywhere.
 
 - So, Java mainly solved the platform dependency problem and also improved security, memory management, and portability.
+
+# Reverse of a string in java
+
+
