@@ -27,8 +27,8 @@
 # What is the biggest problem Java solved?
 
 - Before Java, programs written in languages like C and C++ were machine-dependent.
-- This means if a program was written and compiled on Windows, it would not run on Linux or Mac.
-- Developers had to rewrite the same program for different operating systems, which increased time, cost, and errors.
+  This means if a program was written and compiled on Windows, it would not run on Linux or Mac.
+ Developers had to rewrite the same program for different operating systems, which increased time, cost, and errors.
 - Java solved this problem by introducing the concept of Bytecode and the JVM.
 - When we write a Java program, it is not directly converted into machine code.
 Instead, it is compiled into an intermediate code called bytecode.
