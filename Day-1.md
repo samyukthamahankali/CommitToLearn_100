@@ -2,7 +2,7 @@
 
 # Java
 
-# What is java?
+# What is Java?
 
 - Java is a high-level and object-oriented programming language.
 - It is used to develop different types of applications.
@@ -14,7 +14,7 @@
 
 - Java is widely used in web applications, mobile apps, and banking systems.
 
-# Why was java created?
+# Why was Java created?
 
 - Java was created to solve the problem of platform dependency.
   Before Java, programs worked only on one operating system.
@@ -24,19 +24,19 @@
 
 - Java was also created to be secure, reliable, and easy to use, especially for internet and network-based applications.
 
-# What is the biggest problem java solved?
+# What is the biggest problem Java solved?
 
 - Before Java, programs written in languages like C and C++ were machine-dependent.
-* This means if a program was written and compiled on Windows, it would not run on Linux or Mac.
-Developers had to rewrite the same program for different operating systems, which increased time, cost, and errors.
-Java solved this problem by introducing the concept of Bytecode and JVM.
-When we write a Java program, it is not directly converted into machine code.
+- This means if a program was written and compiled on Windows, it would not run on Linux or Mac.
+- Developers had to rewrite the same program for different operating systems, which increased time, cost, and errors.
+- Java solved this problem by introducing the concept of Bytecode and the JVM.
+- When we write a Java program, it is not directly converted into machine code.
 Instead, it is compiled into an intermediate code called bytecode.
 
-This bytecode is platform independent and can run on any operating system.
+- This bytecode is platform-independent and can run on any operating system.
 Each operating system has its own Java Virtual Machine, and the JVM converts the bytecode into machine code at runtime.
 
-Because of this, the same Java program can run on any system without modification, which is called
-“Write Once, Run Anywhere.”
+- Because of this, the same Java program can run on any system without modification, which is called
+# Write Once, Run Anywhere.
 
-So, Java mainly solved the platform dependency problem, and also improved security, memory management, and portability.
+So, Java mainly solved the platform dependency problem and also improved security, memory management, and portability.
