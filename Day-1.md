@@ -39,4 +39,4 @@ Each operating system has its own Java Virtual Machine, and the JVM converts the
 - Because of this, the same Java program can run on any system without modification, which is called
 # Write Once, Run Anywhere.
 
-So, Java mainly solved the platform dependency problem and also improved security, memory management, and portability.
+- So, Java mainly solved the platform dependency problem and also improved security, memory management, and portability.
